@@ -1,7 +1,7 @@
 ## Olá, bem vindo ao meu GitHub 👋
 
 - ✔ Atualmente sou Desenvolvedor Front-end
-- 📚Estudando Banco de Dados
+- 📚 Estudando Banco de Dados
 
   
 <div style="display: inline_block"><br>
